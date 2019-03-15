@@ -5,5 +5,5 @@ https://jovial-joliot-bb0d14.netlify.com/
 
 concepts used:
 - React Router v4
-- Firebase database (syncState)
+- Firebase database (+ react-rebase with syncState)
 - Animations
