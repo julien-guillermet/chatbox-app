@@ -1,4 +1,4 @@
-I have build this little chatbox to pratice.
+I have build this little chatbox to practice.
 You can find it and test it here :
 
 https://jovial-joliot-bb0d14.netlify.com/
